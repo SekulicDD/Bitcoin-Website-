@@ -1,0 +1,710 @@
+@media screen and (max-width: 1200px) {
+    
+    /*INDEX*/
+    #menu ul li a {
+        font-size: 20px;
+    }
+
+    #titl h1 {
+        font-size: 32px;
+    }
+
+    .button{
+        font-size:30px;
+    }
+
+    #started h2 {
+        font-size: 32px;
+    }
+
+    .textD {
+        font-size: 19px;
+    }
+    .imgD{
+        width: 50%;
+        padding-left:60px;
+        padding-top:20px;
+        padding-right:0px;
+    }
+
+    #drugi .imgD{
+        padding-left: 50px;
+        padding-right: 60px;
+    }
+    .imgD img{
+       width:100%;
+    }
+    .imgD a {
+        font-size: 19px;    
+    }
+    .how h2 {
+        font-size: 32px;
+    }
+
+    #gallery h2{
+        font-size:32px;
+    }
+
+    #footer{
+        font-size:18px;
+    }
+
+    #footer ul li a i{
+        font-size:22    px;
+    }
+
+    /*SUPPORT*/
+    #bitSupport h1{
+        font-size:36px;
+    }
+
+    #bitSupport h2{
+        font-size:28px;
+    }
+
+    #bitSupport p{
+        font-size:20px;
+    }
+
+    #bitSupport{
+        height:530px;
+    }
+
+    #buy h2{
+        font-size:36px;
+    }
+
+    #buy form table{
+        font-size:17px;
+    }
+    #buy p{     
+        font-size:22px;
+    }
+
+    #new{
+        font-size:16px;
+    }
+    
+    /*CONTACT*/
+
+    #faq h2{
+        font-size:30px;
+    }
+
+    #faq p{
+        font-size:18px;
+    }
+
+    .question a{
+        font-size:25px;
+    }
+
+    #message form h2{
+        font-size:30px;
+    }
+
+    #message form p{
+        font-size:20px;
+    }
+
+    .error{
+        font-size:13px;
+    }
+
+    /*AUTOR*/
+    #aHead h1{
+        font-size:32px;
+    }
+
+    #aLeft h2{
+        font-size:22px;
+    }
+
+    #aList h2{
+        font-size:22px;
+    }
+
+
+
+}
+@media screen and (max-width: 992px) {
+    #menu ul li a {
+        font-size: 17px;
+    }
+
+    #logo img {
+        width: 100%;
+    }
+
+    #titl h1 {
+        font-size: 28px;
+    }
+
+    #titl {
+        height: 480px;
+    }
+
+    .button {
+        margin-left: 35%;
+    }
+
+    #started h2 {
+        font-size: 28px;
+    }
+
+    .how h2 {
+        font-size: 28px;
+    }
+
+    .textD {
+        font-size: 18px;
+        display: block;
+        width: 100%;
+        padding-bottom: 30px;
+    }
+
+    .imgD {
+        width: 50%;
+        padding-left: 0px;
+        padding-top: 10px;
+        padding-right: 0px;
+    }
+
+    #drugi .imgD {
+        padding-left: 0px;
+        padding-right: 60px;
+        width: 30%;
+        float: left;
+    }
+
+    #drugi h2 {
+        margin-left: 19%;
+    }
+
+    #drugi .textD {
+        float: left;
+        width: 55%;
+        padding-left: 15px;
+    }
+
+    #seccond{
+        padding-left:0px;
+    }
+
+    /*SUPPORT*/
+    #bitSupport h1{
+        font-size:30px;
+    }
+
+    #bitSupport h2{
+        font-size:24px;
+    }
+
+    #bitSupport p{
+        font-size:17px;
+    }
+
+    #bitSupport{
+        height:470px;
+        padding-top:0px;
+    }
+
+    #buy h2{
+        font-size:30px;
+    }
+
+    #buy form table{
+        font-size:14px;
+    }
+    #buy p{     
+        font-size:20px;
+    }
+
+    #buy form table td{
+        padding-top:10px;
+        padding-left:0px;
+        padding-right:10px ;
+    }
+
+    #new{
+        font-size:13px;
+    }
+
+    /*CONTACT*/
+
+    #faq h2{
+        font-size:26px;
+    }
+
+    #faq p{
+        font-size:15px;
+    }
+
+    .question a{
+        font-size:21px;
+    }
+
+    #message form h2{
+        font-size:26px;
+    }
+
+    #message form p{
+        font-size:18px;
+    }
+
+    .error{
+        font-size:14px;
+    }
+
+    /*AUTOR*/
+    #aHead h1{
+        font-size:26px;
+    }
+
+    #aLeft h2{
+        font-size:20px;
+    }
+
+    #aList h2{
+        font-size:20px;
+    }
+
+    #aList ul li {
+        font-size:18px !important;
+    }
+   
+
+}
+
+@media screen and (max-width: 768px) {
+    #smallHeader{
+        display:block;
+        right:10px;
+    }
+
+    #smallHeader i{
+        font-size:38px;
+    }
+
+    #header{
+        display:none !important;
+    }
+
+    #content{
+        padding-top:0px;
+    }
+
+
+    #titl h1 {
+        font-size: 25px;
+    }
+
+    #started h2 {
+        font-size: 25px;
+    }
+
+    #drugi h2{
+        font-size:25px;
+    }
+
+    .how {
+        padding:30px;
+        height:460px;
+    }
+    .textD {
+        font-size: 15px;
+        padding-left:0px !important;
+    }
+
+    .imgD {
+        width: 50%;
+        padding-left: 0px;
+        padding-top: 20px;
+        padding-right: 0px;
+    }
+
+    .funFact a{
+        font-size:10px;
+    }
+    .funFact p{
+        font-size:14px;
+    }
+
+    #drugi .imgD {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #drugi .textD{
+        border:none;
+        width:65%;
+    }
+
+    .imgD img {
+        width: 100%;
+    }
+
+    .imgD a {
+        font-size: 20px;
+    }
+
+    .how h2 {
+        font-size: 35px;
+    }
+
+    #seccond{
+        padding-left: 25px;
+    }
+
+    #gallery h2 {
+        font-size: 28px;
+    }
+
+    #footer {
+        font-size: 15px;
+    }
+
+    #footer ul li a i{
+        font-size:17px;
+    }
+
+
+     /*SUPPORT*/
+     #bitSupport h1{
+        font-size:25px;
+    }
+
+    #bitSupport h2{
+        font-size:19px;
+    }
+
+    #bitSupport p{
+        font-size:12px;
+    }
+
+    #bBlock{
+        margin-top:0px;
+    }
+
+    #bitSupport{
+        height:430px;
+        padding-top:0px;
+    }
+
+    #buy h2{
+        font-size:25px;
+    }
+
+    #buy{
+        padding-left:60px;
+        padding-right:20px;
+    }
+
+    #buy form table{
+        font-size:14px;
+    }
+    #buy p{     
+        font-size:15px;
+        padding-right:80px;
+       
+    }
+
+    #price{
+        margin-top:50px;
+        display: inline-block;
+        width:100%;
+    }
+
+    #buy form table td{
+        padding-right:10px;
+        display: inline-block;
+    }
+    
+    #submit {
+        width:250px;
+    }
+   
+
+    #new{    
+        font-size:12px;
+    }
+
+    #new ul li{
+        width:100%;
+        padding-right:80px;
+    }
+
+    #price{
+        margin-top: 0px;
+    }
+  
+    /*CONTACT*/
+
+    #faq h2{
+        font-size:22px;
+    }
+
+    #faq p{
+        font-size:11px;
+    }
+
+    #faq input {
+        font-size:13px;
+    }
+
+    .question a{
+        font-size:18px;
+    }
+
+    #message form h2{
+        font-size:22px;
+    }
+
+    #message form p{
+        font-size:14px;
+    }
+
+    .error{
+        font-size:11px;
+    }
+
+     /*AUTOR*/
+    #aHead h1{
+        font-size:24px;
+        margin-top:40px;
+    }
+
+    #aLeft{
+        width:60%;
+        margin-right:20%;
+        margin-left:20%;
+    }
+
+    #aLeft h2{
+        font-size:19px;
+    }
+
+    #aList h2{
+        font-size:19px;
+    }
+
+    #aList ul li {
+        font-size:16px !important;
+    }
+   
+
+}
+
+@media screen and (max-width: 576px) {
+     #smallHeader i{
+        font-size:32px;
+    }
+
+    #smallHeader{
+        top:10px;
+        right:0px;
+    }
+
+    #titl h1{
+        font-size:22px;
+    }
+
+    #titl{
+        height:350px;
+    }
+
+    #started h2 {
+        font-size: 20px;
+    }
+    #started {
+        padding:30px;
+    }
+
+    .how {
+        padding: 0px;
+        height: 460px;
+    }
+
+    #seccond{
+        padding-left: 0px;
+    }
+
+    #seccond .textD {
+        margin-left: 15px !important;
+        width:95%;
+    }
+
+    .textD {
+        font-size: 12px;
+        padding-left: 0px !important;
+    }
+        
+    .imgD {
+        width: 50%;
+        padding-left: 0px;
+        padding-top: 20px;
+        padding-right: 0px;
+    }
+    .funFact a{
+        font-size: 14px !important; 
+    }
+
+    .funFact p {
+        font-size: 12px;
+    }
+
+    #drugi h2{
+        font-size:20px;
+    }
+
+    .how h2 {
+        font-size: 20px;
+    }
+     
+    #gallery h2 {
+        font-size: 20px;
+    }
+
+    #footer {
+        font-size: 12px;
+        padding-left: 0px;
+        padding-top: 0px;
+    }
+
+    #footer ul li{
+        display:block;
+    }
+
+    #footer ul li a i {
+        font-size: 15px;     
+    }
+
+     /*CONTACT*/
+
+     #faq h2{
+        font-size:18px;
+    }
+
+    #faq p{
+        font-size:11px;
+    }
+
+    #faq input {
+        font-size:10px;
+    }
+
+    .question a{
+        font-size:14px;
+    }
+
+    #message{
+        width:90%;
+        padding-left:5%;
+        padding-right:5%;
+    }
+
+    #message form input{
+        font-size:11px;
+    }
+
+    #message form h2{
+        font-size:18px;
+    }
+
+    #message form p{
+        font-size:14px;
+    }
+
+    .error{
+        font-size:11px;
+    }
+
+    /*SUPPORT*/
+     #bitSupport h1{
+        font-size:20px;
+    }
+
+    #bitSupport h2{
+        font-size:16px;
+    }
+
+    #bitSupport p{
+        font-size:12px;
+    }
+
+    #bBlock{
+        margin-top:0px;
+        padding:0px;
+        padding-top:20px;
+    }
+
+    #bBlock img{
+        width:70%;
+    }
+
+    #bitSupport{
+        height:430px;
+        padding-top:0px;
+    }
+
+    #buy h2{
+        font-size:16px;
+    }
+
+    #buy{
+        padding-left:0px;
+        padding-right:0px;
+    }
+
+    #buy form table{
+        font-size:14px;
+    }
+    #buy p{     
+        font-size:15px;
+        padding-right:80px;
+       
+    }
+
+    #submit {
+        width:180px;
+    }
+   
+
+    #new{    
+        font-size:12px;
+    }
+
+    #new ul li{
+        width:100%;
+        padding-right:80px;
+    }
+
+    #price{
+        margin-top: 0px;
+    }
+
+
+    /*AUTOR*/
+    #aHead h1{
+        font-size:15px;
+        margin-top:40px;
+    }
+
+    #aLeft h2{
+        font-size:13px;
+    }
+
+    #aList h2{
+        font-size:13px;
+    }
+
+    #aList ul li {
+        font-size:11px !important;
+    }
+   
+    #aList{
+        margin-top:5%;
+    }
+
+
+}

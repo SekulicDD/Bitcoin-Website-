@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+    <loc>http://jsklk.000webhostapp.com/</loc>
+    <lastmod>2019-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+	<priority>0.4</priority>
+  </url>
+  <url>
+    <loc>http://jsklk.000webhostapp.com/author.html</loc>
+    <lastmod>2019-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+	<priority>0.1</priority>
+  </url>
+  <url>
+    <loc>http://jsklk.000webhostapp.com/support.html</loc>
+    <lastmod>2019-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+	<priority>0.3</priority>
+  </url>
+  <url>
+    <loc>http://jsklk.000webhostapp.com/contact.html</loc>
+    <lastmod>2019-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+	<priority>0.2></priority>
+  </url>
+</urlset>

@@ -1,0 +1,19 @@
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>About us</title>
+			<description>Get started with bitcoin</description>
+			<link>http://jsklk.000webhostapp.com</link>
+		</item>
+    <item>
+      <title>Contact us</title>
+      <description>Feel free to contact us</description>
+      <link>http://jsklk.000webhostapp.com/contact.html</link>
+    </item>
+    <item>
+      <title>Support us</title>
+      <description>If you want to supports us you can buy bitcoins</description>
+      <link>http://jsklk.000webhostapp.com/support.html</link>
+    </item>
+  </channel>
+</rss>
